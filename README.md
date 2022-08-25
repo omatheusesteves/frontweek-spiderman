@@ -14,6 +14,10 @@ com o objetivo de ensinar sobre CSS e animações utilizando a biblioteca GSAP
 <img src="svg/metatag-spider.png" alt="Metatag Spider-man, imagem logo do spider-man" border="0">
 </p>
 
+## Site
+- [frontweek-spiderman.com](https://omatheusesteves.github.io/frontweek-spiderman/)
+
+## 💻 Projeto / 🚀 Tecnologias / 🔖 Layout
 
 💡 Basicamente, trata-se de um website que visa aprimorar o entendimento de 
 realizar layouts mais entusiastas, focados na propriedade "position" do CSS.
