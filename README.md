@@ -27,4 +27,5 @@ interamente no Figma e implementado com as seguintes ferramentas/tecnologias:
 * GSAP (https://greensock.com/)
 * Figma (UI Design) (https://figma.com/)
 
+<p align="center">
 Made with ♥ and a lot of ☕ by Matheus Esteves
