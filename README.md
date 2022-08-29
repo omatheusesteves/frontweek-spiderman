@@ -23,7 +23,7 @@ com o objetivo de ensinar sobre CSS e animações utilizando a biblioteca GSAP
 realizar layouts mais entusiastas, focados na propriedade "position" do CSS.
 É um pouco diferente do que é comumente utilizado em layout de websites 
 (utilizando outros recursos  flexbox, float, grid layout). O design foi feito 
-interamente no Figma e implementado com as seguintes ferramentas/tecnologias:
+inteiramente no Figma e implementado com as seguintes ferramentas/tecnologias:
 
 * HTML5
 * JSES6+
